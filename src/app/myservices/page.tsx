@@ -29,7 +29,7 @@ const page = () => {
       </div>
 
       <button>
-      <Link href='/contact'>Hire Me</Link>
+      <Link href="/contac">Hire Me</Link>
       </button>
     </div>
   )
