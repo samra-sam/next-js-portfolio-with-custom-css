@@ -48,7 +48,7 @@ body {
     }
     p{
       font-size: 17px;
-      color: gray;
+      color: white;
       width: 80%;
 
       span{
@@ -87,7 +87,7 @@ body {
 }
 
 nav ul li:hover{
-  color: #005288;
+  color: #5500e9;
 }
 
 input , textarea{
@@ -265,8 +265,14 @@ button:hover{
 
       .service-item-title{
         font-size: 22px;
+        color: #5500e9;
       }
 
+
+      .service-item-title1{
+        font-size: 22px;
+       
+      }
      
     }
     
@@ -389,7 +395,7 @@ button:hover{
       border-radius: 99px;
   
       &:hover{
-        background: #660088;
+        background: black;
         color: white;
       }
     }
@@ -480,7 +486,7 @@ button:hover{
     border-radius: 99px;
 
     &:hover{
-      background: #005288;
+      background: black;
     }
   }
 }

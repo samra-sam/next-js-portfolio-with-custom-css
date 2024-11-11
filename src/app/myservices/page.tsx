@@ -13,7 +13,7 @@ const page = () => {
 
         <div className="service-item">
             <FaLaptopCode className="service-icon" />
-            <h1 className='service-item-title'>Web Development</h1>
+            <h1 className='service-item-title1'>Web Development</h1>
             <p>We build responsive, fast, and scalable websites tailored to your needs, ensuring optimal performance and user-friendly experiences for your audience.</p>
         </div>
         <div className="service-item">
@@ -23,7 +23,7 @@ const page = () => {
         </div>
         <div className="service-item">
             <MdOutlineDesignServices className="service-icon"/>
-            <h1 className="service-item-title">Web Design</h1>
+            <h1 className="service-item-title1">Web Design</h1>
             <p >Experience creative web design that prioritizes aesthetics, functionality, and user interaction, making your brand stand out with a unique, professional look.</p>
         </div>
       </div>
